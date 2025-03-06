@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://i.ibb.co/n6rw805/694affc7ca5a5fb0cb58c2b4533f962d.jpg",
+  "logo": "https://files.catbox.moe/5fecp2.jpg",
   "repository": "https://github.com/spartankix/spartan",
   "succes_url": "/",
   "stack": "container",
@@ -84,7 +84,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "POPKID-MD",
+      "value": "SONIC-MD",
       "required": false
   
     },
@@ -111,7 +111,7 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "𝐏𝐨𝐩𝐤𝐢𝐝 𝐤𝐞"
+      "value": "SPARTAN"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple '254')",
