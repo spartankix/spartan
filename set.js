@@ -7,11 +7,11 @@ const databasePath = path.join(__dirname, './database.db');
 const DATABASE_URL = process.env.DATABASE_URL === undefined
     ? databasePath
     : process.env.DATABASE_URL;
-module.exports = { session: process.env.SESSION_ID || 'POPKID-MD;;;',
+module.exports = { session: process.env.SESSION_ID || 'Tylor K9;;;',
     PREFIXE: process.env.PREFIX || "+",
     CHAT_BOT : process.env.CHAT_BOT|| "non",
-    OWNER_NAME : process.env.OWNER_NAME || "Popkid Tech",
-    NUMERO_OWNER : process.env.NUMERO_OWNER || "254732297194",
+    OWNER_NAME : process.env.OWNER_NAME || "Tylor K9",
+    NUMERO_OWNER : process.env.NUMERO_OWNER || "254728796537",
     ANTICALL: process.env.ANTICALL || "non",
     AUTO_READ_STATUS: process.env.AUTO_READ_STATUS || "non",
     AUTO_REACT_STATUS: process.env.AUTO_REACT_STATUS || "non",
