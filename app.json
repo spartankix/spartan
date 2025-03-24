@@ -116,7 +116,7 @@
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple '254')",
       "required": false,
-      "value": "254732297194"
+      "value": "254728796537"
     },
     "WARN_COUNT": {
       "desc": "this is the limit of warn for warning commandes",
