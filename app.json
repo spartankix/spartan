@@ -1,5 +1,5 @@
 {
-  "name": "ТЏŁФЯ Ж БФТ💀",
+  "name": "𝚻𝐘𝐋𝚯𝚪 𝚳𝐃 𝚩𝚯𝚻",
   "description": "This BOT was developed by ТЏŁФЯ К9.",
   "keywords": [
     "bot",
@@ -7,7 +7,7 @@
     "baileys",
     "whatsapp"
   ],
-  "logo": "https://files.catbox.moe/5fecp2.jpg",
+  "logo": "https://files.catbox.moe/ysve00.jpg",
   "repository": "https://github.com/spartankix/spartan",
   "succes_url": "/",
   "stack": "container",
@@ -84,7 +84,7 @@
     },
     "BOT_NAME": {
       "description": "put A name for your bot",
-      "value": "SONIC-MD",
+      "value": "𝚻𝐘𝐋𝚯𝚪 𝚳𝐃 𝚩𝚯𝚻",
       "required": false
   
     },
@@ -111,7 +111,7 @@
     "OWNER_NAME": {
       "desc": "Your Name",
       "required": false,
-      "value": "SPARTAN"
+      "value": "𝚻𝐘𝐋𝚯𝚪"
     },
     "NUMERO_OWNER": {
       "desc": "Your number , dont put '+' and put you area code(exemple '254')",
