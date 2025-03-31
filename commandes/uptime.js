@@ -28,7 +28,7 @@ zokou({ nomCom: 'uptime',
   async (dest, zk, commandeOptions) => {
     const { ms, arg, repondre } = commandeOptions;
 
-                 await repondre(`*_uptime of sonic md is: ${runtime(process.uptime())}_*`) 
+                 await repondre(`*_uptime of 𝚻𝐘𝐋𝚯𝚪 𝚳𝐃 𝚩𝚯𝚻 is: ${runtime(process.uptime())}_*`) 
 
    
 
