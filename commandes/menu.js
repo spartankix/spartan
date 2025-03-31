@@ -229,7 +229,7 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
     }
 
     menuMsg += `
-> © 𝗽𝗼𝘄𝗲𝚪𝚵𝐃 𝚩𝐘 𝚻𝐘𝐋𝚯𝚪`;
+> © 𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩𝐘 𝚻𝐘𝐋𝚯𝚪`;
 
    try {
         await zk.sendMessage(dest, { 
@@ -238,9 +238,9 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
                 mentionedJid: [nomAuteurMessage],
                showAdAttribution: true,
                 externalAdReply: {
-                    title: "𝐒𝐏𝐀𝐑𝐓𝐀𝐍 𝐊𝐈𝐗",
+                    title: "𝚻𝐘𝐋𝚯𝚪 𝚳𝐃 𝚩𝚯𝚻",
                     body: "ᴛᴀᴘ ʜᴇʀᴇ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ",
-                    thumbnailUrl: "https://files.catbox.moe/wjj0xn.jpg",
+                    thumbnailUrl: "https://https://files.catbox.moe/drcc2w.mp4",
                     sourceUrl: 'https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l',
                     mediaType: 1,
                     renderLargerThumbnail: true
