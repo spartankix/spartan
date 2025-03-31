@@ -240,7 +240,7 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
                 externalAdReply: {
                     title: "𝚻𝐘𝐋𝚯𝚪 𝚳𝐃 𝚩𝚯𝚻",
                     body: "ᴛᴀᴘ ʜᴇʀᴇ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ",
-                    thumbnailUrl: "https://https://files.catbox.moe/drcc2w.mp4",
+                    thumbnailUrl: "https://i.imgur.com/CRlCs6p.jpeg",
                     sourceUrl: 'https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l',
                     mediaType: 1,
                     renderLargerThumbnail: true
