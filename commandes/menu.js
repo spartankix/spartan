@@ -91,7 +91,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 
 ┌════════════════⊷
 ┊♲╭─────────────
-┊♲┊ *Bot name :* 𝘀𝗼𝗻𝗶𝗰 𝗺𝗱
+┊♲┊ *Bot name :* 𝚻𝐘𝐋𝚯𝚪 𝚳𝐃 𝚩𝚯𝚻
 ┊♲┊ *User:*  ${nomAuteurMessage}  
 ┊♲┊ *Time :*  ${temps}
 ┊♲┊ *Date :* ${date} 
@@ -100,7 +100,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
 ╰═════════════════⊷`;
 
     let menuMsg =`
-> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝘀𝗽𝗮𝗿𝘁𝗮𝗻\n${readmore} `;
+> © 𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩𝐘 𝚻𝐘𝐋𝚯𝚪\n${readmore} `;
 
     // Sort categories alphabetically and generate menu
     const sortedCategories = Object.keys(coms).sort();
@@ -124,7 +124,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
     }
 
     menuMsg += `
-> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝘀𝗽𝗮𝗿𝘁𝗮𝗻🧊`;
+> © 𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩𝐘 𝚻𝐘𝐋𝚯𝚪`;
 
     
     try {
@@ -134,7 +134,7 @@ zokou({ nomCom: "menu", categorie: "General" }, async (dest, zk, commandeOptions
                 mentionedJid: [nomAuteurMessage],
                showAdAttribution: true,
                 externalAdReply: {
-                    title: "𝐒𝐏𝐀𝐑𝐓𝐀𝐍 𝐊𝐈𝐗",
+                    title: "𝚻𝐘𝐋𝚯𝚪 𝚳𝐃 𝚩𝚯𝚻",
                     body: "ᴛᴀᴘ ʜᴇʀᴇ ᴛᴏ ғᴏʟʟᴏᴡ ᴏᴜʀ ᴄʜᴀɴɴᴇʟ",
                     thumbnailUrl: "https://files.catbox.moe/wjj0xn.jpg",
                     sourceUrl: 'https://whatsapp.com/channel/0029VadQrNI8KMqo79BiHr3l',
@@ -196,7 +196,7 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
 
 ┌════════════════⊷
 ┊✣╭─────────────
-┊✣┊ *Bot name :* 𝘀𝗼𝗻𝗶𝗰 𝗺𝗱
+┊✣┊ *Bot name :* 𝚻𝐘𝐋𝚯𝚪 𝚳𝐃 𝚩𝚯𝚻
 ┊✣┊ *User:*  ${nomAuteurMessage}  
 ┊✣┊ *Time :*  ${temps}
 ┊✣┊ *Date :* ${date} 
@@ -205,7 +205,7 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
 ╰═════════════════⊷`;
 
     let menuMsg =`
-> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝘀𝗽𝗮𝗿𝘁𝗮𝗻\n${readmore} `;
+> © 𝗽𝗼𝘄𝗲𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩𝐘 𝚻𝐘𝐋𝚯𝚪\n${readmore} `;
 
     // Sort categories alphabetically and generate menu
     const sortedCategories = Object.keys(coms).sort();
@@ -229,7 +229,7 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
     }
 
     menuMsg += `
-> © 𝗽𝗼𝘄𝗲𝗿𝗲𝗱 𝗯𝘆 𝘀𝗽𝗮𝗿𝘁𝗮𝗻🧊`;
+> © 𝗽𝗼𝘄𝗲𝚪𝚵𝐃 𝚩𝐘 𝚻𝐘𝐋𝚯𝚪`;
 
    try {
         await zk.sendMessage(dest, { 
