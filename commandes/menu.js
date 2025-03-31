@@ -205,7 +205,7 @@ zokou({ nomCom: "list", categorie: "General" }, async (dest, zk, commandeOptions
 ╰═════════════════⊷`;
 
     let menuMsg =`
-> © 𝗽𝗼𝘄𝗲𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩𝐘 𝚻𝐘𝐋𝚯𝚪\n${readmore} `;
+> © 𝚸𝚯𝐖𝚵𝚪𝚵𝐃 𝚩𝐘 𝚻𝐘𝐋𝚯𝚪\n${readmore} `;
 
     // Sort categories alphabetically and generate menu
     const sortedCategories = Object.keys(coms).sort();
