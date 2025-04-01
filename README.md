@@ -30,4 +30,4 @@
 - <a align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/popkidxtech/ZIPPY-XTECH"> <img src="https://img.shields.io/badge/DEPLOY%20NOW-yellow?style=for-the-badge&logo=porsche" width="220" height="38.45"/></a></p>
 
 ## 💖 CONTACT ME
-[![Whatsapp contact](https://img.shields.io/badge/Contact-Dev%20Popkid-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/+254111385747)
+[![Whatsapp contact](https://img.shields.io/badge/Contact-Dev%20Popkid-25D366?style=for-the-badge&logo=whatsapp)](https://wa.me/message/CIAJJKAVXDNGI1)
