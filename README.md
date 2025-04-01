@@ -10,7 +10,7 @@
  
   
 <a href="https://whatsapp.com/channel/0029VaYpDLx4tRrrrXsOvZ3U">
- <img alt="𝐏𝐎𝐏𝐊𝐈𝐃 𝐗𝐓𝐄𝐂𝐇" height="350" src="https://i.imgur.com/c7DqRPr.mp4"></a>
+ <img alt="𝐏𝐎𝐏𝐊𝐈𝐃 𝐗𝐓𝐄𝐂𝐇" height="350" src="https://i.imgur.com/Qz0rzqi.jpeg"></a>
  
 
 # ❤️ ғᴏʀᴋ ᴍʏ ʀᴇᴘᴏ
