@@ -139,7 +139,7 @@
       "required": false
     },
     "AUTO_REACTION": {
-      "description": "reaction with different emojis(IF YOU NEED THIS, SET POPKID_REACT TO no, ELSE IT WON'T WORK) ",
+      "description": "reaction with different emojis(IF YOU NEED THIS, SET 𝚻𝐘𝐋𝚯𝚪_REACT TO no, ELSE IT WON'T WORK) ",
       "required": false,
       "value": "no"
     }
