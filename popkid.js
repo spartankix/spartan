@@ -132,7 +132,7 @@ function getCurrentDateTime() {
 setInterval(async () => {
     if (conf.AUTO_BIO === "yes") {
         const currentDateTime = getCurrentDateTime(); // Get the current date and time
-        const bioText = `👻* sᴏɴɪᴄ x-ᴛᴇᴄʜ 👻 ɪs ᴏɴʟɪɴᴇ : ${currentDateTime}`; // Format the bio text
+        const bioText = `👻* TYLOR X-TECH 👻 IS ONLINE : ${currentDateTime}`; // Format the bio text
         await zk.updateProfileStatus(bioText); // Update the bio
         console.log(`Updated Bio: ${bioText}`); // Log the updated bio
     }
@@ -147,13 +147,13 @@ setInterval(async () => {
 
     await zk.rejectCall(callId, callerId);
     await zk.sendMessage(callerId, {
-      text: "*sᴏʀʀʏ!! ɴᴏ ᴄᴀʟʟs ᴀʟʟᴏᴡᴇᴅ, ᴋɪɴᴅʟʏ ᴛᴇxᴛ.*\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴏɴɪᴄ ʜᴀᴄᴋɪɴɢ ᴛᴇᴀᴍ."
+      text: "*sᴏʀʀʏ!! ɴᴏ ᴄᴀʟʟs ᴀʟʟᴏᴡᴇᴅ, ᴋɪɴᴅʟʏ ᴛᴇxᴛ.*\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ TYLOR HACKING TEAM."
     });
   }
 });
 
         // Default auto-reply message
-let auto_reply_message = "ᴛʜᴇ ᴏᴡɴᴇʀ ɪs ᴄᴜʀʀᴇɴᴛʟʏ ᴜɴᴀᴠᴀɪʟᴀʙʟᴇ,,ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ. ᴡᴇ ᴡɪʟʟ ʀᴇsᴘᴏɴᴅ sᴏᴏɴ.\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ sᴏɴɪᴄ ʜᴀᴄᴋɪɴɢ ᴛᴇᴀᴍ.";
+let auto_reply_message = "ᴛʜᴇ ᴏᴡɴᴇʀ ɪs ᴄᴜʀʀᴇɴᴛʟʏ ᴜɴᴀᴠᴀɪʟᴀʙʟᴇ,,ᴛʜᴀɴᴋ ʏᴏᴜ ғᴏʀ ʏᴏᴜʀ ᴍᴇssᴀɢᴇ. ᴡᴇ ᴡɪʟʟ ʀᴇsᴘᴏɴᴅ sᴏᴏɴ.\n\n> ᴘᴏᴡᴇʀᴇᴅ ʙʏ TYLOR HACKING TEAM.";
 
 // Track contacts that have already received the auto-reply
 let repliedContacts = new Set();
@@ -1360,7 +1360,7 @@ zk.ev.on('group-participants.update', async (group) => {
 ᴍᴏᴅᴇ :${md}
 ᴘʀᴇғɪx : [ ${prefixe} ]
 ᴘʟᴜɢɪɴs :456
-ᴅᴇᴠᴇʟᴏᴘᴇʀ : sᴏɴɪᴄ ᴛᴇᴄʜ 👻
+ᴅᴇᴠᴇʟᴏᴘᴇʀ : TYLOR TECH 👻
 
 ᴡᴀᴛᴄʜ ᴀʟʟ ᴛᴜᴛᴏʀɪᴀʟs
 youtube.com/@Popkid2024`;
