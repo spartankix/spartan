@@ -1,7 +1,9 @@
+
+   
+   
 build:
   docker:
-      worker: Dockerfile
+    web: Dockerfile
+    
 run:
-   worker:   npm run toshtech
-   
-   
+  web: node .
